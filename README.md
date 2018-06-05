@@ -1,5 +1,5 @@
 ### webpack-serve 1.0.2 multiple entry point issue example
-React hot module reload not working after `webpack-serve` update from `0.3.2` to `1.0.2` version if there are multiple entry points in project
+React hot module reload not working after `webpack-serve` updated from `0.3.2` to `1.0.2` version if there are multiple entry points in project
 
 How to reproduce:
 1) install dependencies with `npm install` then launch with `npm run dev`, open site in browser
